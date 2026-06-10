@@ -20,4 +20,5 @@ int main(){
     else{
         cout << "Fail";
     }
+    return 0;
 }
