@@ -7,7 +7,8 @@ void print1(int n){
             cout << "*";
         }
         cout << "\n";
-}}
+    }
+}
 
 int main(){
     int n;
